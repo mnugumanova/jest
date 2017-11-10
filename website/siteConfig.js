@@ -240,6 +240,11 @@ const users = [
     image: '/jest/img/logos/xing.png',
     infoLink: 'https://www.xing.com/',
   },
+  {
+    caption: 'Hearsay Systems',
+    image: '/jest/img/logos/hearsaysystems.png',
+    infoLink: 'https://hearsaysystems.com/',
+  },
 ];
 
 const siteConfig = {
